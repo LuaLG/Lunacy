@@ -1,0 +1,50 @@
+﻿  Translate.cpp
+  main.cpp
+d:\development\projects\lunacy\lunacy\Utilities\Scan.h(15): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\development\projects\lunacy\lunacy\Utilities\Scan.h(26): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+d:\development\projects\lunacy\lunacy\Utilities\Scan.h(26): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+d:\development\projects\lunacy\lunacy\Utilities\Scan.h(28): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+d:\development\projects\lunacy\lunacy\Utilities\Scan.h(28): warning C4244: 'initializing': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+main.cpp(24): warning C4311: 'type cast': pointer truncation from 'HMODULE' to 'DWORD'
+main.cpp(24): warning C4302: 'type cast': truncation from 'HMODULE' to 'DWORD'
+  Instance.cpp
+Utilities\Instance.cpp(6): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(12): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(13): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(14): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(16): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(23): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(24): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(25): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(51): warning C4312: 'type cast': conversion from 'DWORD' to 'std::string **' of greater size
+Utilities\Instance.cpp(56): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+Utilities\Instance.cpp(56): warning C4312: 'type cast': conversion from 'DWORD' to 'std::string **' of greater size
+Utilities\Instance.cpp(61): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD **' of greater size
+  Retcheck.cpp
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(156): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(156): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(163): warning C4244: 'initializing': conversion from '__int64' to 'DWORD', possible loss of data
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(165): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(165): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(169): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(169): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(173): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(173): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(175): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(175): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(175): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(175): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(176): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(176): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(176): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(176): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(177): warning C4311: 'type cast': pointer truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(177): warning C4302: 'type cast': truncation from 'void *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(182): warning C4311: 'type cast': pointer truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(182): warning C4302: 'type cast': truncation from 'BYTE *' to 'DWORD'
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(210): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(216): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(231): warning C4312: 'type cast': conversion from 'DWORD' to 'void *' of greater size
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(239): warning C4312: 'type cast': conversion from 'DWORD' to 'BYTE *' of greater size
+d:\development\projects\lunacy\lunacy\utilities\Retcheck.h(241): warning C4312: 'type cast': conversion from 'DWORD' to 'DWORD *' of greater size
+LINK : fatal error LNK1561: entry point must be defined
